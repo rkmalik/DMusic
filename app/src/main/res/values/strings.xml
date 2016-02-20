@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DMusic</string>
+    <string name="action_settings">Settings</string>
+    <string name="ToasterMessageGreet">Welcome You are now ready to proceed further</string>
+    <string name="ToasterMesageReady">Processing, Go to Next step to Proceed</string>
+    <string name="ToasterMesageProcessed">Processed, Go to next step to finish</string>
+    <string name="ToasterMesageCompleted">Completed</string>
+    <string name="Welcome">Welcome</string>
+    <string name="ProcessingStep">Processing</string>
+    <string name="Processed">Processed</string>
+    <string name="Completed">Completed</string>
+</resources>
